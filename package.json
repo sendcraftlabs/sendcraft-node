@@ -25,12 +25,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sendcraft/sendcraft-node.git"
+    "url": "git+https://github.com/sendcraftlabs/sendcraft-node.git"
   },
   "bugs": {
-    "url": "https://github.com/sendcraft/sendcraft-node/issues"
+    "url": "https://github.com/sendcraftlabs/sendcraft-node/issues"
   },
-  "homepage": "https://github.com/sendcraft/sendcraft-node#readme",
   "dependencies": {
     "axios": "^1.8.4"
   },
@@ -51,5 +50,5 @@
     "ts-jest": "^29.4.6",
     "typescript": "^5.9.3"
   },
-  "homepage": "https://sendcraft.online"
+  "homepage": "https://github.com/sendcraftlabs/sendcraft-node#readme"
 }
