@@ -1,6 +1,7 @@
 {
   "name": "@sendcraft/sdk",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "private": true,
   "description": "Official SendCraft SDK for Node.js - Send transactional emails and campaigns via the SendCraft API",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -21,7 +22,7 @@
     "api",
     "sdk"
   ],
-  "author": "SendCraft Team <sendcraft.team@gmail.com>",
+  "author": "SendCraft Team <team@sendcraft.online>",
   "license": "MIT",
   "repository": {
     "type": "git",
